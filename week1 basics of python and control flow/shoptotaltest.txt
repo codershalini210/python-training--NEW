@@ -1,0 +1,4 @@
+price  quantity   output
+10      5           50
+"ten"              ValueError: could not convert string to float: 'ten'
+10      "two"      ValueError: invalid literal for int() with base 10: 'two'
