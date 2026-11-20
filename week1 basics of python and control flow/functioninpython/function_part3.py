@@ -13,5 +13,4 @@ def listops(nos):
             
     return f"""total count {count} \n sum of all the items :{s}
 \n even count {evencount} odd count {oddcount}"""
-
 print(listops([34,5,23,66,23]))

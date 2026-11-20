@@ -1,0 +1,10 @@
+
+Test Case	Attendance	Assignment	Expected	ActualResult
+TC01	        90      	90	     Green		  Green
+TC02	        89      	90	     Amber		  Amber
+TC03	        75      	75	     Amber		  Amber
+TC04	        74      	100	      Red		   Red
+TC05	        100	        74        Red		   Red
+TC06	        95      	85	     Amber		   Amber
+TC07	        85      	95       Amber		  Amber
+TC08	        100     	100	      Green	    Green
